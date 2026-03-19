@@ -1,20 +1,27 @@
-# Currency Converter
-
 ## 🚀 Live Demo
-[🔗 Acessar Projeto](https://fredjaquim.github.io/js-project-currency-converter/)
+⚠️ Aplicação executável localmente
 
 ## 📌 Sobre
-Aplicação para conversão de moedas com foco em lógica e manipulação de valores.
+Aplicação de conversão de moedas desenvolvida em Java, com foco em lógica, cálculos e estruturação de código.
 
 ## 🛠️ Tecnologias
-- JavaScript
-- HTML5
-- CSS3
+- Java
+- (API )
+- (JSON )
 
 ## 🎯 Funcionalidades
-- Conversão de moedas
-- Entrada dinâmica
-- Atualização em tempo real
+- Conversão entre moedas
+- Entrada de valores
+- Cálculo dinâmico
+- Estrutura modular
 
-## 📷 Preview
-![Preview](./assets/preview.png)
+## ⚙️ Como executar
+```bash
+git clone https://github.com/fredjoaquim/js-project-currency-converter
+cd js-project-currency-converter
+
+# Compilar
+javac Main.java
+
+# Executar
+java Main
